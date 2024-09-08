@@ -1,0 +1,3 @@
+/time set midnight
+/summon minecraft:creeper
+/time set day

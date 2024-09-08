@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.cbr.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "cbr.refmap.json",
+  "mixins": [
+    "CreeperMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
